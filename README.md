@@ -28,6 +28,8 @@
 - djangorestframework-simplejwt==5.3.1
 - mysqlclient==2.1.0
 
+
+
 ## Getting Started 🛠️
 
 1. **Clone the Repository:**
